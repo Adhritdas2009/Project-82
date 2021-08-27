@@ -1,0 +1,15 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-position:center;
+	background-size:cover;
+}
+
+#MyCanvas{
+	border:8px ridge red;
+    background-color:white;
+}
